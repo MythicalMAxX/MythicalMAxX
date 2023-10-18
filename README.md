@@ -54,6 +54,12 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MythicalMAxX/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/MythicalMAxX/MythicalMAxX/output/snake.svg" alt="Snake animation" />
 
 ###
