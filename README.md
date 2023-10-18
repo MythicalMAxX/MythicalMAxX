@@ -24,6 +24,11 @@ I'm Vinamra Yadav and an engineering student passionate about Python and Web dev
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MythicalMAxX&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MythicalMAxX/count.svg?"  />
+</div>
 
 ###
 
@@ -33,6 +38,5 @@ I'm Vinamra Yadav and an engineering student passionate about Python and Web dev
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MythicalMAxX&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
