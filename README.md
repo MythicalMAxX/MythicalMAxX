@@ -30,4 +30,9 @@ I'm Vinamra Yadav and an engineering student passionate about Python and Web dev
 ---
 [![](https://visitcount.itsvg.in/api?id=MythicalMAxX&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+###
+
+<img src="https://raw.githubusercontent.com/MythicalMAxX/MythicalMAxX/output/snake.svg" alt="Snake animation" />
+
+###
