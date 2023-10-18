@@ -32,8 +32,6 @@ I'm Vinamra Yadav and an engineering student passionate about Python and Web dev
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/MythicalMAxX/MythicalMAxX/output/snake.svg" alt="Snake animation" />
 
 ###
