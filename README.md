@@ -15,16 +15,16 @@ I'm Vinamra Yadav and an engineering student passionate about Python and Web dev
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MythicalMAxX&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MythicalMAxX&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MythicalMAxX&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MythicalMAxX&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 👀 All Views
+# 👀 All Views
 <div align="center">
   <img src="https://profile-counter.glitch.me/MythicalMAxX/count.svg?"  />
 </div>
@@ -33,13 +33,9 @@ I'm Vinamra Yadav and an engineering student passionate about Python and Web dev
 
 <img src="https://raw.githubusercontent.com/MythicalMAxX/MythicalMAxX/output/snake.svg" alt="Snake animation" />
 
-### 😂 Random Dev Meme
+# 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-
-###
-<iframe src="https://github.com/MythicalMAxX" title="W3Schools Free Online Web Tutorials">
-</iframe>
 
 ---
 
