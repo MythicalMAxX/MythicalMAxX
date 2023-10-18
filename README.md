@@ -60,6 +60,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MythicalMAxX/MythicalMAxX/output/snake.svg" alt="Snake animation" />
-
-###
