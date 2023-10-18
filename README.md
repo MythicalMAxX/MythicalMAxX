@@ -1,44 +1,52 @@
-## About Me
+<h2 align="left">Hi 👋! My name is Vinamra Yadav and I'm a Python and Web developer, from India.</h2>
 
-[Image of yourself]
+###
 
-Hi, I'm MythicalMAxX, a software engineer with 5 years of experience. I'm passionate about building innovative and user-friendly products. I'm also interested in open source software and machine learning.
+<img align="right" height="150" src="https://i.pinimg.com/originals/82/fe/bb/82febb1f565f2380bde55f14e6a1b11d.gif"  />
 
-### Skills
+###
 
-* Programming languages: Python, Java, JavaScript, C++
-* Cloud computing: AWS, Azure, GCP
-* Databases: MySQL, PostgreSQL, MongoDB
-* Machine learning: TensorFlow, PyTorch
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+</div>
 
-### Projects
+###
 
-* [My first project](https://github.com/MythicalMAxX/my-first-project) - A simple web application built with Django.
-* [My second project](https://github.com/MythicalMAxX/my-second-project) - A machine learning project to predict customer churn.
-* [My third project](https://github.com/MythicalMAxX/my-third-project) - A mobile app built with React Native.
+<div align="left">
+  <a href="https://www.instagram.com/myselfvinamrayadav/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discordapp.com/users/688018398499700799" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="myselfvinamrayadav@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/vinamra-yadav/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-### Contact
+###
 
-* Email: myselfvinamrayadav@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/vinamra-yadav)
+<p align="left">Hello World!!</p>
 
-### Other
-
-* [Blog URL]
-* [Twitter handle]
-* [GitHub username]
-
-### Icons
-
-[![Python icon](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)](https://www.python.org/)
-[![Java icon](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Java_coffee_cup_logo.svg/1200px-Java_coffee_cup_logo.svg.png)](https://www.java.com/)
-[![JavaScript icon](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/JavaScript-logo.svg/1200px-JavaScript-logo.svg.png)](https://www.javascript.com/)
-[![C++ icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/C%2B%2B_logo.svg/1200px-C%2B%2B_logo.svg.png)](https://www.cplusplus.com/)
-[![AWS icon](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png)](https://aws.amazon.com/)
-[![Azure icon](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Microsoft_Azure_Logo.svg/1200px-Microsoft_Azure_Logo.svg.png)](https://azure.microsoft.com/)
-[![GCP icon](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Google_Cloud_Platform_logo.svg/1200px-Google_Cloud_Platform_logo.svg.png)](https://cloud.google.com/)
-[![MySQL icon](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/MySQL-logo.svg/1200px-MySQL-logo.svg.png)](https://www.mysql.com/)
-[![PostgreSQL icon](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PostgreSQL_elephant.svg/1200px-PostgreSQL_elephant.svg.png)](https://www.postgresql.org/)
-[![MongoDB icon](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/MongoDB_logo.svg/1200px-MongoDB_logo.svg.png)](https://www.mongodb.com/)
-[![TensorFlow icon](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png)](https://www.tensorflow.org/)
-[![PyTorch icon](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/PyTorch_logo.svg/1200px-PyTorch_logo.svg.png)](https://pytorch.org/)
+###
