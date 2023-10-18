@@ -19,8 +19,8 @@ Hi, I'm MythicalMAxX, a software engineer with 5 years of experience. I'm passio
 
 ### Contact
 
-* Email: mythicalmaxx@example.com
-* LinkedIn: [LinkedIn profile URL]
+* Email: myselfvinamrayadav@gmail.com
+* LinkedIn: [https://www.linkedin.com/in/vinamra-yadav]
 
 ### Other
 
