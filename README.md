@@ -23,7 +23,7 @@ I'm Vinamra Yadav and an engineering student passionate about Python and Web dev
 
 #
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 #
@@ -44,7 +44,7 @@ I'm Vinamra Yadav and an engineering student passionate about Python and Web dev
 
 #
 
-### 😂 Random Dev Meme
+### 😂 Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
