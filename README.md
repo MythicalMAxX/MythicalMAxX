@@ -1,3 +1,13 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vinamra+Yadav!;" />
+</h1>
+
+<h3 align="center">An engineering student and Python/Web developer from India</h3>
+
+<br/>
+
 # 💫 About Me:
 I'm Vinamra Yadav and an engineering student passionate about Python and Web development from India
 
