@@ -31,12 +31,6 @@ I'm Vinamra Yadav and an engineering student passionate about Python and Web dev
 <br/><br/>
 <hr/>
 
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MythicalMAxX&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MythicalMAxX&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MythicalMAxX&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 #
 
 ### 🏆 GitHub Trophies
