@@ -31,7 +31,6 @@ I'm Vinamra Yadav and an engineering student passionate about Python and Web dev
 <br/><br/>
 <hr/>
 
-#
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MythicalMAxX&theme=radical&no-frame=false&no-bg=true&margin-w=4)
