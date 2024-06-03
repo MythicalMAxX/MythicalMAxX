@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Vinamra+Yadav!;" />
 </h1>
 
-<h3 align="center">Computer Science engineering student, Software and AI/ML developer from India</h3>
+<h3 align="center">Computer Science engineering student, Software & AI/ML developer from India</h3>
 
 <br/>
 
